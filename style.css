@@ -148,8 +148,8 @@ html {
 }
 
 .sobre-nos img {
-  width: 400px;
-  height: 400px;
+  width: 600px;
+  height: 450px;
   margin-top: 10rem;
   margin-left: 10rem;
   border: 2px solid rgb(155, 155, 155);
@@ -173,9 +173,9 @@ html {
 }
 
 .contentsobre p {
-  text-align: center;
   font-size: 1.8rem;
   width: 600px;
+  text-align: justify;
 }
 
 .cardapio {
